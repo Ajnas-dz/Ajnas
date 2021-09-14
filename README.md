@@ -3,7 +3,7 @@ Simple whatsapp bot | Reedited from whatsasena
 
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/07KGGa8.jpeg" width="400" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/07KGGa8.jpeg" width="300" height="400"/>
   <p align="center">
 <a href="#"><img title="CHINJUMWOL" src="https://img.shields.io/badge/CHINJUMWOl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
