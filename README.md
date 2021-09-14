@@ -3,7 +3,7 @@ Simple whatsapp bot | Reedited from whatsasena
 
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/07KGGa8.jpeg" width="300" height="400"/>
+  <img border-radius: 15px src="https://i.imgur.com/07KGGa8.jpeg" width="300" height="500"/>
   <p align="center">
 <a href="#"><img title="CHINJUMWOL" src="https://img.shields.io/badge/CHINJUMWOl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -53,7 +53,7 @@ Project created by <a href="https://github.com/Ajnas-dz/CHINJUMWOL">Ajnas-dz</a>
 Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/EKVj4VNByQkAIzapCt8qLl)
 
 ## 
   <h3 align="center">ðŸ“¢ Support Group 2:</h3>
@@ -86,8 +86,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Hisham-Muhammed/Sophia-Mwol
-$ cd pikachu
+$ git clone https://github.com/Ajnas-dz/CHINJUMWOL
+$ cd CHINJUMWOL
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -96,8 +96,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Hisham-Muhammed/Sophia-Mwol
-$ cd Sophia-Mwol
+$ git clone https://github.com/Ajnas-dz/CHINJUMWOL
+$ cd CHINJUMWOL
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ node qr.js
